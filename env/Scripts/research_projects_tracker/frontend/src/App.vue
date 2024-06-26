@@ -1,4 +1,3 @@
-<!-- src/App.vue -->
 
 <template>
   <div id="app">
@@ -18,7 +17,7 @@ export default {
 </script>
 
 <style>
-/* Ajoutez vos styles ici */
+
 nav {
   display: flex;
   justify-content: space-around;

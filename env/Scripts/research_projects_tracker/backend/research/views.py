@@ -1,5 +1,3 @@
-# research/views.py
-
 from rest_framework import viewsets
 from .models import Chercheur, ProjetDeRecherche, Publication
 from .serializers import ChercheurSerializer, ProjetDeRechercheSerializer, PublicationSerializer

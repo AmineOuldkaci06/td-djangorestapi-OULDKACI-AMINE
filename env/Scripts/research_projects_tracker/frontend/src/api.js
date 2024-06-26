@@ -1,4 +1,4 @@
-// src/api.js
+
 
 import axios from 'axios';
 
@@ -16,4 +16,3 @@ export const createChercheur = (data) => api.post('chercheurs/', data);
 export const createProjet = (data) => api.post('projets/', data);
 export const createPublication = (data) => api.post('publications/', data);
 
-// Ajoutez des fonctions pour mettre à jour et supprimer les ressources si nécessaire

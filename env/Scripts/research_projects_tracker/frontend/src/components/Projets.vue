@@ -1,5 +1,3 @@
-<!-- src/components/Projets.vue -->
-
 <!-- Désactiver la règle eslint multi-word-component-names -->
 /* eslint-disable vue/multi-word-component-names */
 <template>
